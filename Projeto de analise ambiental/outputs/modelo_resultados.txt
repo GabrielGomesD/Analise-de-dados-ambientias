@@ -1,0 +1,6 @@
+RandomForest regression to predict energy_kwh\nMSE: 82.160\nR2: 0.673\n\nFeature importances:\ntemperature_C    0.823064
+humidity_pct     0.083013
+pm25_ug_m3       0.065536
+dayofweek        0.017552
+day              0.010836
+water_l          0.000000
